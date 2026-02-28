@@ -1,3 +1,1 @@
-Hello World!!! 
-
-Here we are doing the same thing again and again for better practice
+Hello World!
