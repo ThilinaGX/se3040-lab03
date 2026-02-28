@@ -1,0 +1,20 @@
+{
+  "name": "se3040-lab03",
+  "version": "1.0.0",
+  "description": "Lab 03 - Node.js and GitHub Flow",
+  "homepage": "https://github.com/ThilinaGX/se3040-lab03#readme",
+  "bugs": {
+    "url": "https://github.com/ThilinaGX/se3040-lab03/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThilinaGX/se3040-lab03.git"
+  },
+  "license": "ISC",
+  "author": "ThilinaGX",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
