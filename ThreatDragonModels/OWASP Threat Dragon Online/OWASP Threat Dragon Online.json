@@ -21,12 +21,12 @@
         "cells": [
           {
             "position": {
-              "x": 560,
-              "y": -340
+              "x": 559.9999999999985,
+              "y": -339.9999999999985
             },
             "size": {
               "width": 570,
-              "height": 740
+              "height": 490
             },
             "attrs": {
               "label": {
@@ -54,6 +54,13 @@
                 "37e39a1f-0c5a-4018-a4fe-199c18877fae",
                 "42b25b41-9cc0-4db4-8916-ad69df15cb53"
               ]
+            },
+            "tools": {
+              "items": [
+                "boundary",
+                "button-remove"
+              ],
+              "name": null
             }
           },
           {
@@ -993,17 +1000,7 @@
                 "x": 500,
                 "y": -310
               }
-            ],
-            "tools": {
-              "items": [
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead"
-              ],
-              "name": null
-            }
+            ]
           },
           {
             "shape": "flow",
